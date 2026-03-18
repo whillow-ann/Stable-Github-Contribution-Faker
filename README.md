@@ -8,3 +8,7 @@ HR don't wanna open your profile and see wonderful contribution record and see "
 It is not my responsibility you got fired due to you faking and not covering up.
 
 This is probabily very vibe-coded.
+
+Edit：
+Currently if you go to action and run, it will update the main branch.
+Working on it running automaticlly everyday.
