@@ -1,0 +1,23 @@
+name: run-java
+
+on:
+  workflow_dispatch   # 手动触发（最简单）
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 拉代码
+        uses: actions/checkout@v4
+
+      - name: 安装Java
+        uses: actions/setup-java@v5
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+
+      - name: 编译并运行
+        run: |
+          javac mainFunction.java
+          java mainFunction
