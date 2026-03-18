@@ -4,17 +4,25 @@ import java.io.IOException;
 
 public class rbq{
     public static void main() {
-      System.out.println("UWU GOAT be yappin' bruh");
-      System.out.println("SYBAU 67 jestermaxxing KYS");
-      System.out.println("bussin' aura SDIYBTing no shit");
-      System.out.println("Gigachad balls vibe check L");
-      System.out.println("UWU toliet slapsno cap");
-      System.out.println("UWU gyatt  lowkirksixsevenuinely moged caught in 4K");
-      System.out.println("SYBAU drip rage-baiting bruh");
-      System.out.println("Cringe aura moged caught in 4K");
-      System.out.println("goofy ahh sussy baka fanum taxed twin");
-      System.out.println("SYBAU gyatt slapsL");
-      System.out.println("UWU sussy baka moged KYS");
-      System.out.println("Cringe bussi be yappin' cooked");
+      System.out.println("Cringe aura touching grass ratio");
+      System.out.println("goofy ahh balls tweaking cooked");
+      System.out.println("Omega gyatt jestermaxxing L");
+      System.out.println("Gigachad aura locked in cooked");
+      System.out.println("goofy ahh dih simp no cap");
+      System.out.println("bussin' fire  lowkirksixsevenuinely moged L");
+      System.out.println("Rizz balls sus frfr");
+      System.out.println("Rizz GOAT sus twin");
+      System.out.println("Cringe balls fanum taxed no cap");
+      System.out.println("Gigachad fire touching grass frfr");
+      System.out.println("UWU GOAT washed W");
+      System.out.println("Gigachad 67 fanum taxed KYS");
+      System.out.println("SYBAU fire vibe check moged ");
+      System.out.println("sigma fire sus moged ");
+      System.out.println("UWU aura be yappin' cooked");
+      System.out.println("SYBAU fire tweaking ratio");
+      System.out.println("Gigachad sussy baka vibe check frfr");
+      System.out.println("Omega toliet moged KYS");
+      System.out.println("Skibidi sussy baka  lowkirksixsevenuinely moged bruh");
+      System.out.println("Gigachad toliet is joever no shit");
   }
 }
