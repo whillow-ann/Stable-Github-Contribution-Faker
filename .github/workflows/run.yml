@@ -12,6 +12,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Random gate
+        run: |
+          if [ $((RANDOM % 3)) -ne 0 ]; then
+            echo "skip"
+            exit 0
+          fi
+
       - name: Checkout repo
         uses: actions/checkout@v6
         with:
