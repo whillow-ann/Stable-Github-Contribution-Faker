@@ -4,33 +4,25 @@ import java.io.IOException;
 
 public class rbq{
     public static void main() {
-      System.out.println("sigma dih gooning cooked");
-      System.out.println("Cringe balls tweaking twin");
-      System.out.println("Skibidi drip jestermaxxing caught in 4K");
-      System.out.println("bussin' 67 rage-baiting bruh");
-      System.out.println("goofy ahh bussi sus bruh");
-      System.out.println("goofy ahh GOAT sus L");
-      System.out.println("goofy ahh GOAT SDIYBTing ratio");
-      System.out.println("SYBAU drip washed caught in 4K");
-      System.out.println("Gigachad drip gooning W");
-      System.out.println("UWU balls locked in no cap");
-      System.out.println("bussin' toliet locked in cooked");
-      System.out.println("goofy ahh sussy baka simp KYS");
-      System.out.println("Gigachad gyatt looksmaxxing bruh");
-      System.out.println("UWU GOAT rage-baiting ratio");
-      System.out.println("Zesty GOAT rage-baiting L");
-      System.out.println("Gigachad GOAT washed no shit");
-      System.out.println("sigma sussy baka vibe check frfr");
-      System.out.println("SYBAU dih looksmaxxing KYS");
-      System.out.println("Gigachad aura sus frfr");
-      System.out.println("Rizz drip fanum taxed caught in 4K");
-      System.out.println("Zesty aura sus cooked");
-      System.out.println("Skibidi dih vibe check L");
-      System.out.println("Omega aura jestermaxxing KYS");
-      System.out.println("Omega gyatt  lowkirksixsevenuinely moged L");
-      System.out.println("UWU dih looksmaxxing caught in 4K");
-      System.out.println("Omega GOAT simp cooked");
-      System.out.println("sigma GOAT moged L");
-      System.out.println("SYBAU bussi moged no shit");
+      System.out.println("sigma toliet jestermaxxing no cap");
+      System.out.println("Skibidi dih vibe check cooked");
+      System.out.println("Cringe GOAT be yappin' ratio");
+      System.out.println("goofy ahh balls slapsno cap");
+      System.out.println("bussin' aura slapsKYS");
+      System.out.println("Omega dih SDIYBTing frfr");
+      System.out.println("bussin' aura gooning moged ");
+      System.out.println("sigma sussy baka moged cooked");
+      System.out.println("Omega balls gooning bruh");
+      System.out.println("Rizz gyatt jestermaxxing moged ");
+      System.out.println("UWU bussi SDIYBTing ratio");
+      System.out.println("SYBAU 67 slapsKYS");
+      System.out.println("Cringe aura touching grass frfr");
+      System.out.println("UWU aura looksmaxxing frfr");
+      System.out.println("Rizz 67 be yappin' moged ");
+      System.out.println("UWU balls jestermaxxing moged ");
+      System.out.println("Rizz gyatt SDIYBTing ratio");
+      System.out.println("Zesty dih looksmaxxing KYS");
+      System.out.println("sigma aura be yappin' W");
+      System.out.println("UWU toliet tweaking no shit");
   }
 }
