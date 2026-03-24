@@ -1,4 +1,7 @@
 **current main branch isn't stable.**
+last prob was the random didn't work as intended and commit 4 times a day, not good
+hopefully i fixed it
+
 # StableGithubContributionFaker
 
 The sole purpose of this project is to fake github contribution, making you look like a contributing coder.
