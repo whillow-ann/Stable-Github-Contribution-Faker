@@ -6,6 +6,9 @@ hopefully i fixed it
 Edit： It did not fix, still runs 4 times a day very stable.
 I am so confused
 
+Edit： I just tried run in github action page, seems successfully blocked?
+I hope it's working properlly.
+
 # StableGithubContributionFaker
 
 The sole purpose of this project is to fake github contribution, making you look like a contributing coder.
