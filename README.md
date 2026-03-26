@@ -1,6 +1,10 @@
 **current main branch isn't stable.**
+
 last prob was the random didn't work as intended and commit 4 times a day, not good
 hopefully i fixed it
+
+Edit： It did not fix, still runs 4 times a day very stable.
+I am so confused
 
 # StableGithubContributionFaker
 
