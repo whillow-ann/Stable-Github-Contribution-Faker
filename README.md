@@ -9,6 +9,9 @@ I am so confused
 Edit： I just tried run in github action page, seems successfully blocked?
 I hope it's working properlly.
 
+Edit: feels like working properly now.
+hopefully I don't need to touch it further.
+
 # StableGithubContributionFaker
 
 The sole purpose of this project is to fake github contribution, making you look like a contributing coder.
