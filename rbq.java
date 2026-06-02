@@ -4,35 +4,23 @@ import java.io.IOException;
 
 public class rbq{
     public static void main() {
-      System.out.println("Skibidi drip touching grass bruh");
-      System.out.println("SYBAU bussi looksmaxxing moged ");
-      System.out.println("sigma balls touching grass cooked");
-      System.out.println("Omega gyatt jestermaxxing twin");
-      System.out.println("UWU GOAT is joever caught in 4K");
-      System.out.println("Omega 67 looksmaxxing twin");
-      System.out.println("Gigachad dih SDIYBTing caught in 4K");
-      System.out.println("Cringe sussy baka looksmaxxing cooked");
-      System.out.println("Skibidi balls simp no shit");
-      System.out.println("Gigachad fire gooning no shit");
-      System.out.println("Rizz drip simp L");
-      System.out.println("Gigachad GOAT tweaking KYS");
-      System.out.println("Omega gyatt simp L");
-      System.out.println("Cringe GOAT vibe check no shit");
-      System.out.println("sigma dih fanum taxed L");
-      System.out.println("Rizz gyatt touching grass bruh");
-      System.out.println("bussin' toliet is joever L");
-      System.out.println("Omega sussy baka slapsW");
-      System.out.println("Omega drip gooning moged ");
-      System.out.println("Omega balls looksmaxxing cooked");
-      System.out.println("Rizz GOAT looksmaxxing ratio");
-      System.out.println("Omega bussi gooning no cap");
-      System.out.println("Cringe bussi is joever cooked");
-      System.out.println("SYBAU toliet washed W");
-      System.out.println("goofy ahh toliet simp moged ");
-      System.out.println("Gigachad sussy baka rage-baiting frfr");
-      System.out.println("Cringe dih touching grass KYS");
-      System.out.println("Rizz fire touching grass bruh");
-      System.out.println("Zesty aura looksmaxxing no shit");
-      System.out.println("bussin' sussy baka slapsfrfr");
+      System.out.println("Omega 67 rage-baiting twin");
+      System.out.println("SYBAU sussy baka SDIYBTing no shit");
+      System.out.println("goofy ahh dih gooning ratio");
+      System.out.println("Zesty aura jestermaxxing W");
+      System.out.println("SYBAU toliet SDIYBTing L");
+      System.out.println("goofy ahh dih touching grass cooked");
+      System.out.println("Zesty gyatt tweaking frfr");
+      System.out.println("UWU aura be yappin' twin");
+      System.out.println("Cringe bussi looksmaxxing twin");
+      System.out.println("Zesty aura simp no cap");
+      System.out.println("Cringe toliet SDIYBTing moged ");
+      System.out.println("sigma sussy baka looksmaxxing caught in 4K");
+      System.out.println("Cringe GOAT tweaking no cap");
+      System.out.println("sigma toliet slapsKYS");
+      System.out.println("sigma toliet simp frfr");
+      System.out.println("Zesty bussi locked in W");
+      System.out.println("SYBAU gyatt sus bruh");
+      System.out.println("Cringe toliet vibe check KYS");
   }
 }
