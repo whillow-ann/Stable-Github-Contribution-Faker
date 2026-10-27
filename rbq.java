@@ -4,21 +4,30 @@ import java.io.IOException;
 
 public class rbq{
     public static void main() {
-      System.out.println("Gigachad aura vibe check caught in 4K");
-      System.out.println("Skibidi dih vibe check twin");
-      System.out.println("SYBAU aura vibe check no cap");
-      System.out.println("SYBAU dih gooning L");
-      System.out.println("UWU GOAT washed bruh");
-      System.out.println("goofy ahh GOAT is joever caught in 4K");
-      System.out.println("Omega bussi tweaking ratio");
-      System.out.println("Zesty aura tweaking bruh");
-      System.out.println("Gigachad bussi SDIYBTing moged ");
-      System.out.println("goofy ahh bussi moged ratio");
-      System.out.println("sigma bussi fanum taxed moged ");
-      System.out.println("Rizz fire looksmaxxing L");
-      System.out.println("Gigachad dih touching grass caught in 4K");
-      System.out.println("Omega 67 fanum taxed no cap");
-      System.out.println("sigma aura washed no shit");
-      System.out.println("UWU gyatt gooning W");
+      System.out.println("Cringe fire rage-baiting KYS");
+      System.out.println("UWU GOAT be yappin' KYS");
+      System.out.println("bussin' bussi be yappin' no cap");
+      System.out.println("Skibidi 67 be yappin' bruh");
+      System.out.println("Skibidi 67 sus moged ");
+      System.out.println("Cringe 67 rage-baiting W");
+      System.out.println("Cringe toliet tweaking L");
+      System.out.println("bussin' balls SDIYBTing KYS");
+      System.out.println("Cringe 67 touching grass W");
+      System.out.println("Gigachad balls tweaking no shit");
+      System.out.println("Gigachad GOAT gooning twin");
+      System.out.println("Gigachad drip looksmaxxing bruh");
+      System.out.println("goofy ahh gyatt tweaking ratio");
+      System.out.println("Gigachad toliet locked in no cap");
+      System.out.println("Rizz fire moged bruh");
+      System.out.println("UWU gyatt touching grass W");
+      System.out.println("SYBAU 67 slapstwin");
+      System.out.println("Skibidi fire touching grass KYS");
+      System.out.println("Cringe sussy baka simp no shit");
+      System.out.println("goofy ahh GOAT gooning moged ");
+      System.out.println("Cringe gyatt  lowkirksixsevenuinely moged W");
+      System.out.println("sigma dih is joever no cap");
+      System.out.println("Skibidi gyatt is joever ratio");
+      System.out.println("goofy ahh GOAT fanum taxed no cap");
+      System.out.println("SYBAU drip washed cooked");
   }
 }
